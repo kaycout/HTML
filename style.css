@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "heebo"; /* apelido para fonte */
+    src: url("../fonts/heebo/heebo-variablefont_wght.ttf");
+}
+
+
+section{
+    font-family: "heebo";
+    background-color: black;
+}
